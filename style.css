@@ -1,0 +1,28 @@
+/*Desktops pequenos em até 1920px (FullHD)*/
+
+/*@media screen and (min-width: 1025px) and (max-width: 1920px) {
+}
+
+/*Desktops médios de 1921px a 2560px (2K)*/
+/*@media screen and (min-width: 1921px) and (max-width: 2560px) {
+
+}
+/*Monitores grandes acima de 2561px (4K e Ultra-wide)*/
+
+/*@media screen and (min-width: 2561px) {
+
+}
+/*Celulares*/
+
+/*@media screen and (max-width: 480px) {
+
+}
+
+/*Tablets*/
+/*@media screen and (min-width: 768px) and (max-width: 1024px) {
+
+}
+
+@media screen and (orientation: landscape) {
+
+}
