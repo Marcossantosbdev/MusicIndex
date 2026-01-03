@@ -16,21 +16,21 @@
         <?php endif; ?>
 
         <form action="processalogin.php" method="POST">
-            <div>
+            <div class="form-group">
                 <label for="email">E-mail</label>
                 <input type="email" id="email" name="email" required placeholder="seuemail@email.com">
             </div>
-            <div>
+            <div class="form-group">
                 <label for="senha">Senha</label>
                 <input type="password" id="senha" name="senha" required placeholder="°°°°°°">
             </div>
             <button type="submit">Entrar</button>
         </form>
 
-        <div>
-            <a href="cadastro.html">Criar nova conta</a>
+        <div class="links">
+            <a href="cadastro.php">Criar nova conta</a>
             <a href="index.html">Voltar a página principal</a>
-            <a href="loginADM.html">Ir para a página de acesso administrativo</a>
+            <a href="loginADM.html">Colaborador? Clique aqui!</a>
         </div>
     </main>
 </body>
